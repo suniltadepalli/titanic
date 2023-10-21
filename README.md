@@ -1,2 +1,2 @@
 # titanic
-Titanic Passenger Data for Data Scirnce
+Titanic Passenger Data for Data Science
